@@ -6,5 +6,13 @@
 * [Using ARIA](https://a11ykr.github.io/using-aria/WD-20180927/): 초벌 완료
 * [ARIA in HTML](https://a11ykr.github.io/html-aria/): 초벌 완료
 
-## 국내 문서 온라인판 게시
+## 국내 문서 온라인판 작업
 * [KWCAG 2.2](https://a11ykr.github.io/kwcag22/): 1차 완료
+
+## 다른 문서의 한국어 번역본 링크
+* [WCAG 2.1](http://www.kwacc.or.kr/WAI/wcag21/): by 한국웹접근성평가센터
+* [WAI-ARIA 1.2](https://mulder21c.github.io/aria/): by mulder21c
+* [WAI-ARIA Authoring Practices 1.2](https://mulder21c.github.io/aria-practices/): by mulder21c
+
+## 참여
+* [Issues](https://github.com/a11ykr/a11ykr.github.io/issues)에 글 남겨주세요.
