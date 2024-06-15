@@ -10,11 +10,9 @@
 * [KWCAG 2.2](https://a11ykr.github.io/kwcag22/): 1차 완료
 
 ## 다른 문서의 한국어 번역본 링크
-* [한국웹접근성평가센터](http://www.kwacc.or.kr/)
-  * [WCAG 2.1](http://www.kwacc.or.kr/WAI/wcag21/)
-* [mulder21c](mulder21c.github.io)
-  * [WAI-ARIA 1.2](https://mulder21c.github.io/aria/)
-  * [WAI-ARIA Authoring Practices 1.2](https://mulder21c.github.io/aria-practices/)
+* [WCAG 2.1](http://www.kwacc.or.kr/WAI/wcag21/)
+* [WAI-ARIA 1.2](https://mulder21c.github.io/aria/)
+* [WAI-ARIA Authoring Practices 1.2](https://mulder21c.github.io/aria-practices/)
 
 ## 참여
 * [Issues](https://github.com/a11ykr/a11ykr.github.io/issues)에 글 남겨주세요.
