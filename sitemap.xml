@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://a11ykr.github.io/</loc>
+  <lastmod>2024-06-15T10:27:42+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wcag22/</loc>
+  <lastmod>2024-06-15T10:37:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/using-aria/WD-20180927/</loc>
+  <lastmod>2024-06-15T09:28:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/html-aria/</loc>
+  <lastmod>2024-06-15T10:31:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/kwcag22/</loc>
+  <lastmod>2024-06-11T21:43:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/.</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/about</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/text-alternatives</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/non-text-content</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/time-based-media</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/audio-only-and-video-only-prerecorded</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/captions-prerecorded</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/audio-description-or-media-alternative-prerecorded</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/captions-live</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/audio-description-prerecorded</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/sign-language-prerecorded</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/extended-audio-description-prerecorded</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/media-alternative-prerecorded</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/audio-only-live</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/adaptable</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/info-and-relationships</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/meaningful-sequence</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/sensory-characteristics</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/orientation</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/identify-input-purpose</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/identify-purpose</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/distinguishable</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/use-of-color</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/audio-control</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/contrast-minimum</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/resize-text</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/images-of-text</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/contrast-enhanced</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/low-or-no-background-audio</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/visual-presentation</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/images-of-text-no-exception</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/reflow</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/non-text-contrast</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/text-spacing</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/content-on-hover-or-focus</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/keyboard-accessible</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/keyboard</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/no-keyboard-trap</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/keyboard-no-exception</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/character-key-shortcuts</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/enough-time</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/timing-adjustable</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/pause-stop-hide</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/no-timing</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/interruptions</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/re-authenticating</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/timeouts</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/seizures-and-physical-reactions</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/three-flashes-or-below-threshold</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/three-flashes</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/animation-from-interactions</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/navigable</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/bypass-blocks</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/page-titled</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/focus-order</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/link-purpose-in-context</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/multiple-ways</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/headings-and-labels</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/focus-visible</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/location</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/link-purpose-link-only</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/section-headings</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/focus-not-obscured-minimum</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/focus-not-obscured-enhanced</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/focus-appearance</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/input-modalities</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/pointer-gestures</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/pointer-cancellation</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/label-in-name</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/motion-actuation</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/target-size-enhanced</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/concurrent-input-mechanisms</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/dragging-movements</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/target-size-minimum</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/readable</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/language-of-page</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/language-of-parts</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/unusual-words</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/abbreviations</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/reading-level</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/pronunciation</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/predictable</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/on-focus</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/on-input</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/consistent-navigation</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/consistent-identification</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/change-on-request</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/consistent-help</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/input-assistance</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/error-identification</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/labels-or-instructions</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/error-suggestion</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/error-prevention-legal-financial-data</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/help</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/error-prevention-all</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/redundant-entry</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/accessible-authentication-minimum</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/accessible-authentication-enhanced</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/compatible</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/parsing</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/name-role-value</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/status-messages</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/intro</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/understanding-techniques</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/understanding-act-rules</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/conformance</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/refer-to-wcag</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/documenting-accessibility-support</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/understanding-metadata</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/understanding-act-rules.html</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/use-of-color.html</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/focus-visible.html</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/pause-stop-hide.html</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/focus-not-obscured-enhanced.html</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/non-text-contrast.html</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/focus-appearance.html</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/pointer-gestures.html</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/target-size-enhanced.html</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/accessible-authentication-minimum.html</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://a11ykr.github.io/wai/wcag22/understanding/accessible-authentication-enhanced.html</loc>
+  <lastmod>2024-06-14T10:08:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
