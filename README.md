@@ -3,7 +3,10 @@
 ## 작업 문서 목록
 ### W3C 문서 한국어 번역
 * [WCAG 2.2](https://a11ykr.github.io/wcag22/): 1차 완료
-* [Understanding WCAG 2.2](https://a11ykr.github.io/wai/wcag22/understanding/): 초벌 작업 중
+* [Understanding WCAG 2.2](https://a11ykr.github.io/wai/wcag22/understanding/): 초벌 완료
+  * 용어집 정리 및 링크 필요
+* Techniques for WCAG 2.2: 예정
+* All Supplemental Guidance: 예정
 * [Using ARIA](https://a11ykr.github.io/using-aria/WD-20180927/): 초벌 완료
 * [ARIA in HTML](https://a11ykr.github.io/html-aria/): 초벌 완료
 
