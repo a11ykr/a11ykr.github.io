@@ -13,6 +13,9 @@
 ### 국내 문서 온라인판
 * [KWCAG 2.2](https://a11ykr.github.io/kwcag22/): 1차 완료
 
+### 검사 도구
+* [타겟 크기 계산기](https://a11ykr.github.io/act-tool/target-size/): 테스트 중
+
 ## 다른 문서의 한국어 번역본 링크
 * [WCAG 2.1](http://www.kwacc.or.kr/WAI/wcag21/)
 * [WAI-ARIA 1.2](https://mulder21c.github.io/aria/)
