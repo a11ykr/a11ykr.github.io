@@ -1,6 +1,6 @@
 # 접근성 관련 문서 모음
 
-## 작업 문서 목록
+## 작업 목록
 ### W3C 문서 한국어 번역
 * [WCAG 2.2](https://a11ykr.github.io/wcag22/): 1차 완료
 * [Understanding WCAG 2.2](https://a11ykr.github.io/wai/wcag22/understanding/): 초벌 완료
