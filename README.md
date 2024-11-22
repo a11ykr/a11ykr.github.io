@@ -18,6 +18,7 @@
 
 ## 검토 대상
 * [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/)
+* [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
 
 ## 다른 한국어 번역본 링크
 * [WCAG 2.1](http://www.kwacc.or.kr/WAI/wcag21/)
