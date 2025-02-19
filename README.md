@@ -15,7 +15,6 @@
 * [KWCAG 2.2](https://a11ykr.github.io/kwcag22/): 1차 완료
 
 ## 검토 대상
-* [Guidance on Applying WCAG 2 to Non-Web Information and Communications Technologies (WCAG2ICT)](https://www.w3.org/TR/wcag2ict-22/)
 * [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/)
 * [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
 
