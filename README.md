@@ -7,6 +7,7 @@
   * 용어집 정리 및 링크 필요
 * Techniques for WCAG 2.2: 예정
 * All Supplemental Guidance: 예정
+* WCAG2ICT: 예정
 * [Using ARIA](https://a11ykr.github.io/using-aria/WD-20180927/): 초벌 완료
 * [ARIA in HTML](https://a11ykr.github.io/html-aria/): 초벌 완료
 
