@@ -41,6 +41,10 @@
 * [kwcag a11y inspector](https://chromewebstore.google.com/detail/kwcag-a11y-inspector/ngcmkfaolkgkjbddhjnhgoekgaamjibo): 타겟 사이즈 측정용 크롬 확장.
 * [WCAG Color contrast checker](https://chromewebstore.google.com/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf): 명도대비 측정용 크롬 확장
 
+## 참고 자료
+* [EN 301 549 V3 the harmonized European Standard for ICT Accessibility](https://www.etsi.org/human-factors-accessibility/en-301-549-v3-the-harmonized-european-standard-for-ict-accessibility) [EN 301 549 V3.2.1(PDF)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
+* [Accessibility Standards Canada](https://accessible.canada.ca/)
+
 ## 참여
 * 한국 디지털 접근성 개선을 위해 번역, 자료 수집 등을 위한 활동 중입니다.
 * 참여를 원하시는 분은 저장소 [Issues](https://github.com/a11ykr/a11ykr.github.io/issues)에 글 남겨주세요.
