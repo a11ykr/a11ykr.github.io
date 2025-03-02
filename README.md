@@ -12,7 +12,7 @@
 * [ARIA in HTML](https://a11ykr.github.io/html-aria/): 초벌 완료
 
 ### 국내 문서 온라인판
-* [KWCAG 2.2](https://a11ykr.github.io/kwcag22/): 1차 완료
+* [KWCAG 2.2](https://a11ykr.github.io/kwcag22/)
 
 ## 검토 대상
 * [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/)
