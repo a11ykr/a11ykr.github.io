@@ -46,5 +46,5 @@
 * [Accessibility Standards Canada](https://accessible.canada.ca/)
 
 ## 참여
-* 한국 디지털 접근성 개선을 위해 번역, 자료 수집 등을 위한 활동 중입니다.
+* 디지털 접근성 개선을 위해 번역, 자료 수집 등을 하고 있습니다.
 * 참여를 원하시는 분은 저장소 [Issues](https://github.com/a11ykr/a11ykr.github.io/issues)에 글 남겨주세요.
