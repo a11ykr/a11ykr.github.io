@@ -6,21 +6,24 @@
 * [웹 콘텐츠 접근성 지침(WCAG) 2.2](https://a11ykr.github.io/wcag22/): 1차 완료
   * [WCAG 이해(Understanding WCAG) 2.2](https://a11ykr.github.io/wai/wcag22/understanding/): 초벌 완료
     * 용어집 정리 및 링크 필요
-  * Techniques for WCAG 2.2: 예정
-  * All Supplemental Guidance: 예정
-* [웹 콘텐츠 접근성 지침(WCAG) 2.1](http://www.kwacc.or.kr/WAI/wcag21/) ![외부링크](./external-link.svg)
-* [웹 콘텐츠 접근성 지침(WCAG) 2.0](https://web.archive.org/web/20121107021930/http://archi.ssu.ac.kr/WCAG20/) ![외부링크](./external-link.svg)
-* [웹 콘텐츠 접근성 지침(WCAG) 1.0](https://web.archive.org/web/20110907032914/https://www.gregshin.pe.kr/wcag/wai-pageauth.html) ![외부링크](./external-link.svg)
+* [웹 콘텐츠 접근성 지침(WCAG) 2.1 ![외부링크](./external-link.svg)](http://www.kwacc.or.kr/WAI/wcag21/)
+* [웹 콘텐츠 접근성 지침(WCAG) 2.0 ![외부링크](./external-link.svg)](https://web.archive.org/web/20121107021930/http://archi.ssu.ac.kr/WCAG20/)
+* [웹 콘텐츠 접근성 지침(WCAG) 1.0 ![외부링크](./external-link.svg)](https://web.archive.org/web/20110907032914/https://www.gregshin.pe.kr/wcag/wai-pageauth.html)
 * 웹이 아닌 정보통신기술에 대한 WCAG 2 적용 안내(WCAG2ICT): [진행중](https://github.com/a11ykr/wcag2ict-22)
-* [WAI-ARIA 1.2](https://mulder21c.github.io/aria/) ![외부링크](./external-link.svg)
-  * [WAI-ARIA Authoring Practices 1.2](https://mulder21c.github.io/aria-practices/) ![외부링크](./external-link.svg)
+* [접근가능한 리치 인터넷 어플리케이션(WAI-ARIA) 1.2 ![외부링크](./external-link.svg)](https://mulder21c.github.io/aria/)
+  * [WAI-ARIA 작성 방법(WAI-ARIA Authoring Practices) 1.2 ![외부링크](./external-link.svg)](https://mulder21c.github.io/aria-practices/)
   * [ARIA 사용(Using ARIA)](https://a11ykr.github.io/using-aria/WD-20180927/): 초벌 완료
   * [HTML의 ARIA(ARIA in HTML)](https://a11ykr.github.io/html-aria/): 초벌 완료
+
+## 번역 예정이거나 검토 중
+* WCAG 2.2 관련
+  * [Techniques for WCAG 2.2](https://www.w3.org/WAI/WCAG22/Techniques/): 예정
+  * [All Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/): 예정
 * [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/): 검토 중
 * [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/): 검토 중
 
 ### 국내 문서 온라인판
-* [KWCAG 2.2](https://a11ykr.github.io/kwcag22/)
+* [한국형 웹 콘텐츠 접근성 지침(KWCAG) 2.2](https://a11ykr.github.io/kwcag22/)
 
 ## 접근성 점검 도구 소개
 * [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/test-evaluate/tools/list/): W3C에서 소개하는 접근성 점검 도구 목록
