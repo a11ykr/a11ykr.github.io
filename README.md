@@ -9,11 +9,11 @@
 * [웹 콘텐츠 접근성 지침(WCAG) 2.1 ![외부링크](./external-link.svg)](http://www.kwacc.or.kr/WAI/wcag21/)
 * [웹 콘텐츠 접근성 지침(WCAG) 2.0 ![외부링크](./external-link.svg)](https://web.archive.org/web/20121107021930/http://archi.ssu.ac.kr/WCAG20/)
 * [웹 콘텐츠 접근성 지침(WCAG) 1.0 ![외부링크](./external-link.svg)](https://web.archive.org/web/20110907032914/https://www.gregshin.pe.kr/wcag/wai-pageauth.html)
-* 웹이 아닌 정보통신기술에 대한 WCAG 2 적용 안내(WCAG2ICT): [진행중](https://github.com/a11ykr/wcag2ict-22)
 * [접근가능한 리치 인터넷 어플리케이션(WAI-ARIA) 1.2 ![외부링크](./external-link.svg)](https://mulder21c.github.io/aria/)
   * [WAI-ARIA 작성 방법(WAI-ARIA Authoring Practices) 1.2 ![외부링크](./external-link.svg)](https://mulder21c.github.io/aria-practices/)
   * [ARIA 사용(Using ARIA)](https://a11ykr.github.io/using-aria/WD-20180927/): 초벌 완료
   * [HTML의 ARIA(ARIA in HTML)](https://a11ykr.github.io/html-aria/): 초벌 완료
+* 웹이 아닌 정보통신기술에 대한 WCAG 2 적용 안내(WCAG2ICT): [진행중](https://github.com/a11ykr/wcag2ict-22)
 
 ## 번역 예정이거나 검토 중
 * WCAG 2.2 관련
