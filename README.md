@@ -44,7 +44,7 @@
 * [WCAG Color contrast checker](https://chromewebstore.google.com/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf): 명도대비 측정용 크롬 확장
 
 ## 참고 자료
-* [EN 301 549 V3 the harmonized European Standard for ICT Accessibility](https://www.etsi.org/human-factors-accessibility/en-301-549-v3-the-harmonized-european-standard-for-ict-accessibility) [EN 301 549 V3.2.1(PDF)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
+* [EN 301 549 V3 the harmonized European Standard for ICT Accessibility](https://www.etsi.org/human-factors-accessibility/en-301-549-v3-the-harmonized-european-standard-for-ict-accessibility), [PDF Download(EN 301 549 V3.2.1)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
 * [Accessibility Standards Canada](https://accessible.canada.ca/)
 
 ## 참여
