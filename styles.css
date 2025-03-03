@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+@charset "UTF-8";
+/* font for korean */
+@font-face {
+	font-family: 'Pretendard-Light';
+	src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-light.woff') format('woff');
+	font-weight: 200;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Pretendard-Regular';
+	src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+body {
+	font-family: 'Pretendard-Light', sans-serif;
+	line-height: 1.6;
+}
+
+.ex-link {
+	vertical-align: middle;
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	font-size: 1px;
+	color: transparent;
+	background: url(./images/external-link.svg) no-repeat top center;
+	background-size: 100%;
+}
