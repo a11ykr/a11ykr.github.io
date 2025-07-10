@@ -21,7 +21,7 @@ A11YKR은 한국의 디지털 접근성을 높일 수 있도록 관련 자료를
 
 함께 작업할 분들이 오셔서, 더 좋은 결과물을 위한 노력을 하려 합니다. [디스코드 서버](https://discord.gg/9ZXYJWDjWR)와 [문서용 깃허브 저장소](https://github.com/a11ykr/docs)를 이용하고 있습니다.
 
-* 기여 가이드라인 제작
+* WCAG 2.2 Understanding 개정판 스터디 및 번역
 * 번역 스타일 가이드 및 모범 사례 제작
 * 번역 용어 정리
 * 기존 번역 문서 정비
@@ -29,7 +29,7 @@ A11YKR은 한국의 디지털 접근성을 높일 수 있도록 관련 자료를
 ### 문서 번역
 * W3C의 접근성 관련 표준 및 노트 등 문서를 한국어로 번역하고 있습니다.
 *   [웹 콘텐츠 접근성 지침(WCAG) 2.2](/docs/wcag2/): 1차 완료
-    *   [WCAG 이해(Understanding WCAG) 2.2](/docs/wcag2/understanding/): 초벌 완료(용어집 정리 및 링크 필요)
+    *   [WCAG 이해(Understanding WCAG) 2.2](/docs/wcag2/understanding/)
 *   [웹이 아닌 정보통신기술에 대한 WCAG 2 적용 안내(WCAG2ICT-22-20241115)](/docs/wcag2ict/): 초벌 완료(오류 및 링크 수정 필요)
 *   WAI-ARIA 관련
     *   [ARIA 사용(Using ARIA)](https://a11ykr.github.io/using-aria/WD-20180927/): 초벌 완료
