@@ -17,12 +17,11 @@ const { member } = Astro.props
 
 // stories 컬렉션에서 해당 멤버가 작성한 글 찾기
 const allStories = await getCollection('stories')
-const memberStories = allStories.filter((story) => story.data.author === member.data.userid)
-
 console.log(
 	allStories.length,
 	allStories.map((story) => story.data.title),
 )
+const memberStories = allStories.filter((story) => story.data.author === member.data.userid)
 
 // 기여한 글 찾기 (contributor 배열에 멤버 ID가 포함된 글)
 const contributedStories = allStories.filter(
