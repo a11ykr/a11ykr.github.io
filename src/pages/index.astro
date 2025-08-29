@@ -25,8 +25,7 @@ const stories = (await getCollection('stories'))
           <ul style="margin-left: 0;">
             {
               stories.map((story) => (
-                <li class="grid grid-cols-1 gap-1 md:grid-cols-3" style="grid-template-columns: 1fr 2fr;">
-                  <span class="text-gray-200">{story.data.pubDate.toLocaleDateString('ko-KR')}</span>
+                <li class="grid grid-cols-1 gap-1 md:grid-cols-1">
                   <a href={`/stories/${story.id}`} class="truncate hover:underline" title={story.data.title}>
                     {story.data.title}
                   </a>
