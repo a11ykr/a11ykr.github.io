@@ -7,9 +7,9 @@ slug: study-understanding-wcag22
 author: a11ykr
 contributor: [resistan, reyoucat, twinstae, dodok8, muhun, amada6818, nayeon]
 pubDate: 2025-08-29
-draft: false
-img: /images/wcag22undertanding.png
 tags: ["accessibility", "wcag", "understanding", "study"]
+img: /images/wcag22undertanding.png
+draft: false
 ---
 
 웹 콘텐츠 접근성에 관한 국제 표준 [WCAG 2.2](https://www.w3.org/TR/WCAG22/)는 2024년 12월 12일 공표되었습니다. 그리고 [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/), [WCAG Understanding](https://www.w3.org/WAI/WCAG22/Understanding/), [Techniques](https://www.w3.org/WAI/WCAG22/Techniques/), [ACT Rules](https://www.w3.org/WAI/standards-guidelines/act/rules/)와 같이 표준을 이해하고 실무에 적용하는데 도움이되는 여러 문서가 있습니다.

@@ -8,6 +8,7 @@ import type { CollectionEntry } from 'astro:content'
 export const getStaticPaths = (async ({ paginate }) => {
   const stories = await getCollection('stories')
 
+  console.log(stories.length, stories.map((story) => story.data.title))
   const publishedContributions = stories.filter((story) => !story.data.draft)
   // 최신 글이 먼저 오도록 날짜 기준 정렬
   const sortedStories = publishedContributions.sort((a, b) => {

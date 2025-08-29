@@ -12,9 +12,7 @@ export const getStaticPaths = (async ({ paginate }) => {
 
 // 모든 멤버 가져오기
 const allMembers = await getCollection('members')
-interface Props {
-  page: Page<CollectionEntry<'members'>>
-}
+
 const { page } = Astro.props
 // console.log('전체 멤버 수:', allMembers.length)
 ---

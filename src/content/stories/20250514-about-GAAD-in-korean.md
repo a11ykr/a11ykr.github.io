@@ -7,9 +7,9 @@ slug: about-gaad-in-korean-2025
 author: a11ykr
 contributor: [resistan, reyoucat, Sooamazing, mihee]
 pubDate: 2025-05-15
-draft: false
-img: /images/gaad-logo-navy.png
 tags: ["accessibility", "awareness", "korean"]
+img: /images/gaad-logo-navy.png
+draft: false
 ---
 
 2011년 [Joe Devon의 블로그 글](https://mysqltalk.wordpress.com/2011/11/27/challenge-accessibility-know-how-needs-to-go-mainstream-with-developers-now/)에서 논의를 시작해, 현재는 재단 활동으로 지속되고 있는 ["세계 접근성 인식 제고의 날"(<span lang="en">GAAD: Global Accessibility Awareness Day</span>)](https://accessibility.day/)이 있습니다.

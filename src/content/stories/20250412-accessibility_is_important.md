@@ -6,9 +6,9 @@ official: false
 slug: accessibility-is-important
 author: resistan
 pubDate: 2025-04-13
-draft: false
-img: /images/sketchplanations-the-curb-cut-effect.png
 tags: ["accessibility", "reason", "development"]
+img: /images/sketchplanations-the-curb-cut-effect.png
+draft: false
 ---
 
 서비스나 사이트 구축의 개발 요건으로 존재하지 않는한, 시간과 노력을 들여가며 하고 싶어하지 않는 '접근성'.   

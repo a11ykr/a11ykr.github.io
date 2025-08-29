@@ -7,8 +7,8 @@ slug: discussion-for-make-1st-coc
 author: a11ykr
 contributor: [resistan, reyoucat, twinstae]
 pubDate: 2025-05-30
-draft: true
 tags: ["a11ykr", "discussion"]
+draft: true
 ---
 
 ## 활동 기록
