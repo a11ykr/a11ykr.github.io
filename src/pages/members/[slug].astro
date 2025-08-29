@@ -1,6 +1,6 @@
 ---
 import DefaultLayout from '../../layouts/DefaultLayout.astro'
-import { Icon } from 'astro-icon/components'
+import MemberInfo from '../../components/MemberInfo.astro'
 import { getCollection } from 'astro:content'
 import type { GetStaticPaths } from 'astro'
 
@@ -19,12 +19,22 @@ const { member } = Astro.props
 const allStories = await getCollection('stories')
 const memberStories = allStories.filter((story) => story.data.author === member.data.userid)
 
+console.log(
+	allStories.length,
+	allStories.map((story) => story.data.title),
+)
+
 // 기여한 글 찾기 (contributor 배열에 멤버 ID가 포함된 글)
 const contributedStories = allStories.filter(
 	(story) =>
 		story.data.contributor &&
 		story.data.contributor.includes(member.data.userid) &&
 		story.data.author !== member.data.userid, // 이미 작성한 글에 포함되지 않도록
+)
+console.log(
+	member.data.userid,
+	contributedStories.length,
+	contributedStories.map((story) => story.data.title),
 )
 
 // 글 날짜 기준으로 정렬 (최신 글이 먼저 오도록)
@@ -39,7 +49,7 @@ contributedStories.sort(sortByDate)
 
 // 임시 글(draft) 제외
 const publishedStories = memberStories.filter((story) => !story.data.draft)
-const publishedContributions = contributedStories.filter((story) => !story.data.draft)
+// const publishedContributions = contributedStories.filter((story) => !story.data.draft)
 ---
 
 <DefaultLayout
@@ -52,64 +62,7 @@ const publishedContributions = contributedStories.filter((story) => !story.data.
 			</div>
 
 			<div class="member-detail">
-				<dl class="member">
-					<dt class="title">{member.data.title}</dt>
-					{
-						member.data.img ? (
-							<dd class="image">
-								<img src={member.data.img} alt="" />
-							</dd>
-						) : (
-							''
-						)
-					}
-					<dd class="bio">{member.data.description}</dd>
-					<dd class="links">
-						{
-							member.data.homepage && (
-								<a href={member.data.homepage} title="홈페이지" target="_blank" rel="noopener noreferrer">
-									<Icon name="ion:home" />
-								</a>
-							)
-						}
-						{
-							member.data.github && (
-								<a href={member.data.github} title="GitHub" target="_blank" rel="noopener noreferrer">
-									<Icon name="ion:logo-github" />
-								</a>
-							)
-						}
-						{
-							member.data.twitter && (
-								<a href={member.data.twitter} title="Twitter/X" target="_blank" rel="noopener noreferrer">
-									<Icon name="ion:logo-twitter" />
-								</a>
-							)
-						}
-						{
-							member.data.facebook && (
-								<a href={member.data.facebook} title="Facebook" target="_blank" rel="noopener noreferrer">
-									<Icon name="ion:logo-facebook" />
-								</a>
-							)
-						}
-						{
-							member.data.linkedin && (
-								<a href={member.data.linkedin} title="LinkedIn" target="_blank" rel="noopener noreferrer">
-									<Icon name="ion:logo-linkedin" />
-								</a>
-							)
-						}
-					</dd>
-				</dl>
-
-				{
-					member.body && (
-						<div class="member-content">
-							<Fragment set:html={member.body} />
-						</div>
-					)
-				}
+				<MemberInfo member={member} />
 
 				{/* 멤버가 작성한 스토리 목록 */}
 				{
@@ -146,18 +99,25 @@ const publishedContributions = contributedStories.filter((story) => !story.data.
 
 				{/* 멤버가 기여한 스토리 목록 */}
 				{
-					publishedContributions.length > 0 && (
+					contributedStories.length > 0 && (
 						<div class="member-contributions">
 							<h2>참여 활동</h2>
 							<ul>
-								{publishedContributions.map((story) => (
+								{contributedStories.map((story) => (
 									<li>
-										<a href={`/stories/${story.data.slug || story.slug}`}>
+										{story.data.draft ? (
 											<div class="contribution-info">
 												<h3 class="contribution-title">{story.data.title}</h3>
 												{story.data.description && <p class="contribution-description">{story.data.description}</p>}
 											</div>
-										</a>
+										) : (
+											<a href={`/stories/${story.data.slug || story.slug}`}>
+												<div class="contribution-info">
+													<h3 class="contribution-title">{story.data.title}</h3>
+													{story.data.description && <p class="contribution-description">{story.data.description}</p>}
+												</div>
+											</a>
+										)}
 									</li>
 								))}
 							</ul>
@@ -324,7 +284,6 @@ const publishedContributions = contributedStories.filter((story) => !story.data.
 			line-height: 1.5;
 		}
 		.contribution-description {
-
 			line-height: 1.5;
 		}
 	}
