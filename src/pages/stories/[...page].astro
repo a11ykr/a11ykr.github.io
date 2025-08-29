@@ -8,8 +8,9 @@ import type { CollectionEntry } from 'astro:content'
 export const getStaticPaths = (async ({ paginate }) => {
   const stories = await getCollection('stories')
 
+  const publishedContributions = stories.filter((story) => !story.data.draft)
   // 최신 글이 먼저 오도록 날짜 기준 정렬
-  const sortedStories = stories.sort((a, b) => {
+  const sortedStories = publishedContributions.sort((a, b) => {
     const dateA = a.data.pubDate instanceof Date ? a.data.pubDate : new Date(a.data.pubDate || 0)
     const dateB = b.data.pubDate instanceof Date ? b.data.pubDate : new Date(b.data.pubDate || 0)
     return dateB.getTime() - dateA.getTime()
@@ -42,7 +43,10 @@ const { page } = Astro.props
         {
           page.data.map((story) => (
             <li>
-              <Card img={story.data.img ? story.data.img : '/a11ykr-hero2.png' } url={'/stories/' + story.id} title={story.data.title}>
+              <Card
+                img={story.data.img ? story.data.img : '/a11ykr-hero2.png'}
+                url={'/stories/' + story.id}
+                title={story.data.title}>
                 {story.data.description}
               </Card>
             </li>
