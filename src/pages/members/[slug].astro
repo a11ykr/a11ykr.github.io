@@ -129,16 +129,8 @@ const publishedContributions = contributedStories.filter((story) => !story.data.
 																: new Date(story.data.pubDate).toISOString()
 														}>
 														{story.data.pubDate instanceof Date
-															? story.data.pubDate.toLocaleDateString('ko-KR', {
-																	year: 'numeric',
-																	month: 'long',
-																	day: 'numeric',
-																})
-															: new Date(story.data.pubDate).toLocaleDateString('ko-KR', {
-																	year: 'numeric',
-																	month: 'long',
-																	day: 'numeric',
-																})}
+															? story.data.pubDate.toLocaleDateString('ko-KR')
+															: new Date(story.data.pubDate).toLocaleDateString('ko-KR')}
 													</time>
 												)}
 												<h3 class="story-title">{story.data.title}</h3>
@@ -155,35 +147,15 @@ const publishedContributions = contributedStories.filter((story) => !story.data.
 				{/* 멤버가 기여한 스토리 목록 */}
 				{
 					publishedContributions.length > 0 && (
-						<div class="member-stories member-contributions">
+						<div class="member-contributions">
 							<h2>참여 활동</h2>
 							<ul>
 								{publishedContributions.map((story) => (
 									<li>
 										<a href={`/stories/${story.data.slug || story.slug}`}>
-											<div class="story-info">
-												{story.data.pubDate && (
-													<time
-														datetime={
-															story.data.pubDate instanceof Date
-																? story.data.pubDate.toISOString()
-																: new Date(story.data.pubDate).toISOString()
-														}>
-														{story.data.pubDate instanceof Date
-															? story.data.pubDate.toLocaleDateString('ko-KR', {
-																	year: 'numeric',
-																	month: 'long',
-																	day: 'numeric',
-																})
-															: new Date(story.data.pubDate).toLocaleDateString('ko-KR', {
-																	year: 'numeric',
-																	month: 'long',
-																	day: 'numeric',
-																})}
-													</time>
-												)}
-												<h3 class="story-title">{story.data.title}</h3>
-												{story.data.description && <p class="story-description">{story.data.description}</p>}
+											<div class="contribution-info">
+												<h3 class="contribution-title">{story.data.title}</h3>
+												{story.data.description && <p class="contribution-description">{story.data.description}</p>}
 											</div>
 										</a>
 									</li>
@@ -276,7 +248,8 @@ const publishedContributions = contributedStories.filter((story) => !story.data.
 	}
 
 	/* 멤버 스토리 섹션 스타일 */
-	.member-stories {
+	.member-stories,
+	.member-contributions {
 		margin-top: 1rem;
 		border-top: 1px solid var(--theme-divider, rgba(0, 0, 0, 0.1));
 		padding-top: 2rem;
@@ -284,6 +257,9 @@ const publishedContributions = contributedStories.filter((story) => !story.data.
 		h2 {
 			margin-bottom: 0;
 			font-size: 1.5rem;
+		}
+		h3 {
+			font-size: 1rem;
 		}
 
 		ul {
@@ -313,7 +289,8 @@ const publishedContributions = contributedStories.filter((story) => !story.data.
 				}
 			}
 		}
-		.story-info {
+		.story-info,
+		.contribution-info {
 			display: flex;
 			align-items: flex-start;
 			.story-title {
@@ -341,15 +318,26 @@ const publishedContributions = contributedStories.filter((story) => !story.data.
 	/* 기여한 글 목록 스타일 - 필요하다면 다른 스타일 추가 */
 	.member-contributions {
 		margin-top: 2rem;
+		.contribution-title {
+			display: flex;
+			min-width: 40%;
+			line-height: 1.5;
+		}
+		.contribution-description {
+
+			line-height: 1.5;
+		}
 	}
 
 	@media screen and (max-width: 768px) {
-		.member-stories {
-			.story-info {
+		.member-stories,
+		.member-contributions {
+			.story-info,
+			.contribution-info {
 				display: flex;
 				flex-direction: column;
-				.story-title {
-					margin: 0.25rem 0;
+				.story-title,
+				.contribution-title {
 					width: 100%;
 				}
 			}
