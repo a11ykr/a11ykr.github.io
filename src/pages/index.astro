@@ -7,7 +7,10 @@ import ContentMedia from '../components/ContentMedia.astro'
 import { Accordion, AccordionItem } from 'accessible-astro-components'
 import { getCollection } from 'astro:content'
 
-const stories = (await getCollection('stories'))
+const stories = await getCollection('stories')
+
+const publishedContributions = stories
+  .filter((story) => !story.data.draft)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 2)
 ---
@@ -24,7 +27,7 @@ const stories = (await getCollection('stories'))
         <Feature icon="mdi:rocket" title="이야기">
           <ul style="margin-left: 0;">
             {
-              stories.map((story) => (
+              publishedContributions.map((story) => (
                 <li class="grid grid-cols-1 gap-1 md:grid-cols-1">
                   <a href={`/stories/${story.id}`} class="truncate hover:underline" title={story.data.title}>
                     {story.data.title}
