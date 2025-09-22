@@ -17,10 +17,6 @@ const { member } = Astro.props
 
 // stories 컬렉션에서 해당 멤버가 작성한 글 찾기
 const allStories = await getCollection('stories')
-console.log(
-	allStories.length,
-	allStories.map((story) => story.data.title),
-)
 const memberStories = allStories.filter((story) => story.data.author === member.data.userid)
 
 // 기여한 글 찾기 (contributor 배열에 멤버 ID가 포함된 글)
@@ -29,11 +25,6 @@ const contributedStories = allStories.filter(
 		story.data.contributor &&
 		story.data.contributor.includes(member.data.userid) &&
 		story.data.author !== member.data.userid, // 이미 작성한 글에 포함되지 않도록
-)
-console.log(
-	member.data.userid,
-	contributedStories.length,
-	contributedStories.map((story) => story.data.title),
 )
 
 // 글 날짜 기준으로 정렬 (최신 글이 먼저 오도록)
@@ -48,7 +39,6 @@ contributedStories.sort(sortByDate)
 
 // 임시 글(draft) 제외
 const publishedStories = memberStories.filter((story) => !story.data.draft)
-// const publishedContributions = contributedStories.filter((story) => !story.data.draft)
 ---
 
 <DefaultLayout
@@ -59,8 +49,8 @@ const publishedStories = memberStories.filter((story) => !story.data.draft)
 			<div class="back-link">
 				<a href="/members/">← 전체 기여자 목록</a>
 			</div>
-
 			<div class="member-detail">
+				<h1>{member.data.title}</h1>
 				<MemberInfo member={member} />
 
 				{/* 멤버가 작성한 스토리 목록 */}
@@ -147,55 +137,49 @@ const publishedStories = memberStories.filter((story) => !story.data.draft)
 		border-radius: 0.5rem;
 		padding: 2rem;
 		max-width: 800px;
-	}
 
-	.member {
-		dt,
-		dd:not(.image) {
-			margin-left: 90px;
+		h1 {
+			margin-bottom: 2rem;
 		}
-		dt {
-			margin-bottom: 0.5rem;
-			font-weight: bold;
-			font-size: 1.8rem;
-		}
-		dd.image {
-			margin-top: -3rem;
-			margin-bottom: -2.5rem;
-			border-radius: 8px;
-			padding-top: 1rem;
-			width: 80px;
-			height: 80px;
-			overflow: hidden;
-		}
-		dd.bio {
-			margin-bottom: 1.25rem;
-			min-height: 0.25rem;
-			line-height: 1.5;
-		}
+		.member {
+			dd.image {
+				margin-top: 0;
+				margin-bottom: -2.5rem;
+				border-radius: 8px;
+				padding-top: 1rem;
+				width: 80px;
+				height: 80px;
+				overflow: hidden;
+			}
+			dd.bio {
+				margin-bottom: 1.25rem;
+				min-height: 0.25rem;
+				line-height: 1.5;
+			}
 
-		dd.links {
-			a {
-				display: inline-flex;
-				justify-content: center;
-				align-items: center;
-				margin-right: 0.5rem;
-				padding: 0.5rem 0.3rem;
-				font-size: 1.5rem;
+			dd.links {
+				a {
+					display: inline-flex;
+					justify-content: center;
+					align-items: center;
+					margin-right: 0.5rem;
+					padding: 0.5rem 0.3rem;
+					font-size: 1.5rem;
 
-				&:hover {
-					transform: translateY(-3px);
-					transition: transform 0.2s ease-in-out;
+					&:hover {
+						transform: translateY(-3px);
+						transition: transform 0.2s ease-in-out;
+					}
 				}
 			}
-		}
 
-		img {
-			display: block;
-			float: left;
-			margin-top: -1rem;
-			margin-right: 10px;
-			max-width: 80px;
+			img {
+				display: block;
+				float: left;
+				margin-top: -1rem;
+				margin-right: 10px;
+				max-width: 80px;
+			}
 		}
 	}
 
