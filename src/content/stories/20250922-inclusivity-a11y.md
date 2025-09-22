@@ -22,6 +22,10 @@ draft: false
   ol > li {
     list-style-type: decimal !important;
   }
+
+	table td {
+		word-break: keep-all;
+	}
 </style>
 
 <h2 style="margin-top: 0" id="개요">개요</h2>
