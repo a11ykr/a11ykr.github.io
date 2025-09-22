@@ -1,7 +1,7 @@
 ---
 userid: resistan
 title: 현진
-description: 접근성 전파사가 되고픈. 다양한 주제를 다루려고 노력 중 입니다.
+description: 접근성이 당연한 일이면 좋겠습니다.
 img: https://resistan.com/assets/images/icon.png
 homepage: https://resistan.com
 github: https://github.com/resistan
