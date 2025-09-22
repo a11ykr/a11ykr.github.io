@@ -74,12 +74,7 @@ draft: false
 이 격언에는 중요한 진실이 있습니다.<br/>긴급한 문제가 아주 중요한 경우는 드물고, 중요한 문제가 몹시 긴급한 경우도 거의 없습니다.
 
 <table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
+  <caption style="visibility:hidden">아이젠하워 매트릭스</caption>
   <tbody>
     <tr>
       <td><strong>중요함</strong> 긴급함 = 먼저 처리</td>
