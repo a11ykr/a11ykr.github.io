@@ -30,14 +30,14 @@ draft: false
 
 <h2 style="margin-top: 0" id="개요">개요</h2>
 
-지난 8월, 저는 국내 유일 프런트엔드 콘퍼런스 [FEConf 2025](https://2025.feconf.kr)에서 "[모두를 위한 웹 접근성은 무엇이고, 어떻게 할까요? 👀 💬 🔉](https://slides.com/muhun/web-accessibility-for-everyone-what-and-how)"라는 주제로 디지털 접근성에 대해 다루었습니다. 기본 개념과 누구나 실천할 수 있는 방법론을 소개했습니다.
+지난 8월, 저는 국내 유일 프런트엔드 콘퍼런스 [FEConf 2025](https://2025.feconf.kr)에서 "[모두를 위한 웹 접근성은 무엇이고, 어떻게 할까요? 👀 💬 🔉](https://slides.com/muhun/web-accessibility-for-everyone-what-and-how)"라는 주제로 발표했습니다. 이 발표에서는 디지털 접근성의 기본 개념과 누구나 쉽게 실천할 수 있는 방법론을 소개했습니다.
 
 <figure>
 	<img src="/images/inclusivity-a11y.png" alt="슬라이드 내용에 '접근성의 가치를 지키기, 프런트엔드 개발자의 역할'이라고 적혀져 있다.">
 	<figcaption>당시 FEConf 2025 발표 회장 모습</figcaption>
 </figure>
 
-발표에서 [접근성에 대한 두가지 오해를 공유했듯이](https://slides.com/muhun/web-accessibility-for-everyone-what-and-how/#/5/1), **대부분의 일반인은 접근성에 대해 단편적 인식**을 갖고 있습니다.
+발표에서 [접근성에 대한 두가지 오해를 공유했듯이](https://slides.com/muhun/web-accessibility-for-everyone-what-and-how/#/5/1), **대부분의 사람은 접근성에 대해 단편적인 인식**을 갖고 있다고 생각합니다.
 
 <aside class="callout callout__example-standard">
 <header>
