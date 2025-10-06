@@ -5,7 +5,6 @@ description: 포용적인 디지털 환경을 만들기 위해서는 접근성�
 official: false
 slug: inclusivity-a11y
 author: muhun
-contributor: [muhun, resistan]
 pubDate: 2025-09-22
 tags: ['accessibility', 'reason', 'development']
 img: /images/inclusivity-a11y.png
