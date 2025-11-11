@@ -29,6 +29,7 @@ const memberCollection = defineCollection({
     twitter: z.string().optional(),
     facebook: z.string().optional(),
     linkedin: z.string().optional(),
+    youtube: z.string().optional(),
   }),
 })
 

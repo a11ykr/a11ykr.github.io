@@ -76,6 +76,13 @@ const { member } = Astro.props
 						</a>
 					)
 				}
+				{
+					member.data.youtube && (
+						<a href={member.data.youtube}>
+							<Icon name="mdi:youtube" />
+						</a>
+					)
+				}
 			</dd>
 		)
 	}
