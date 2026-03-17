@@ -5,7 +5,7 @@ description: 2025년 7월부터 접근성 지침을 이해하는 스터디를 �
 official: true
 slug: study-understanding-wcag22
 author: a11ykr
-contributor: [resistan, reyoucat, twinstae, dodok8, muhun, amada6818, nayeon, mihee, ellejunior]
+contributor: [resistan, reyoucat, twinstae, dodok8, muhun, amada6818, nayeon, mihee, Sooamazing, ellejunior, isaaceryn]
 pubDate: 2025-08-29
 tags: ["accessibility", "wcag", "understanding", "study"]
 img: /images/wcag22undertanding.png
